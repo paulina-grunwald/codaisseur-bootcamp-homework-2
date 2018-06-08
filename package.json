@@ -1,0 +1,15 @@
+{
+  "name": "hw-ib-week1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha src/*.spec.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "esprima": "^4.0.0"
+  }
+}
